@@ -24,9 +24,9 @@ No pain, No gain<br>
 
 <p align="center">
   <Strong>:books: Education<br>
-   ⦁ 비트캠프 SW 웹개발자 양성과정 & 코멘토 Open API
-   ⦁ Grand Mercure Hotel, New Zealand
-   ⦁ 경희대학교 응용수학과 
+   ⦁ 비트캠프 SW 웹개발자 양성과정 & 코멘토 Open API<br>
+   ⦁ Grand Mercure Hotel, New Zealand<br>
+   ⦁ 경희대학교 응용수학과 <br>
 </p>
 
 <br>
@@ -46,7 +46,6 @@ No pain, No gain<br>
 <img src="https://img.shields.io/badge/JSP-black?style=flat-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Servlet-008CDD?style=flat-square&logo=Stripe&logoColor=white">
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>-->
-<!--<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>-->
 <!--<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>-->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a><br>
 
@@ -56,7 +55,6 @@ No pain, No gain<br>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"> 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white">
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"><br>
 
 <!--<img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/>-->
 <br>
